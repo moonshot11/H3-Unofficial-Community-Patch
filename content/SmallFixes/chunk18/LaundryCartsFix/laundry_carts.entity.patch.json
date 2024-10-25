@@ -3,10 +3,7 @@
 	"tbluHash": "00FA83E7FF633C2E",
 	"patch": [
 		{
-			"SubEntityOperation": [
-				"7d585a96c53c7071",
-				{ "SetName": "laundry_carts_a" }
-			]
+			"SubEntityOperation": ["7d585a96c53c7071", { "SetName": "laundry_carts_a" }]
 		},
 		{
 			"SubEntityOperation": [
@@ -17,10 +14,7 @@
 			]
 		},
 		{
-			"SubEntityOperation": [
-				"e761f06c24b89097",
-				{ "SetName": "laundry_carts_a_02" }
-			]
+			"SubEntityOperation": ["e761f06c24b89097", { "SetName": "laundry_carts_a_02" }]
 		},
 		{
 			"SubEntityOperation": [
