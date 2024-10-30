@@ -3,25 +3,16 @@
 	"tbluHash": "00FA83E7FF633C2E",
 	"patch": [
 		{
-			"SubEntityOperation": [
-				"f16ead8a903c78a9",
-				{ "SetFactory": "00D18A96397C266C" }
-			]
+			"SubEntityOperation": ["f16ead8a903c78a9", { "SetFactory": "00D18A96397C266C" }]
 		},
 		{
-			"SubEntityOperation": [
-				"f16ead8a903c78a9",
-				{ "SetBlueprint": "001D09350CFCBE99" }
-			]
+			"SubEntityOperation": ["f16ead8a903c78a9", { "SetBlueprint": "001D09350CFCBE99" }]
 		},
 		{
 			"SubEntityOperation": [
 				"f16ead8a903c78a9",
 				{
-					"AddProperty": [
-						"GlowPower",
-						{ "type": "float32", "value": 20 }
-					]
+					"AddProperty": ["GlowPower", { "type": "float32", "value": 20 }]
 				}
 			]
 		},
@@ -29,10 +20,7 @@
 			"SubEntityOperation": [
 				"81986ebb2d776edd",
 				{
-					"AddProperty": [
-						"GlowPower",
-						{ "type": "float32", "value": 50 }
-					]
+					"AddProperty": ["GlowPower", { "type": "float32", "value": 50 }]
 				}
 			]
 		},
@@ -40,10 +28,7 @@
 			"SubEntityOperation": [
 				"e3aabfd77b60bfca",
 				{
-					"AddProperty": [
-						"GlowPower",
-						{ "type": "float32", "value": 20 }
-					]
+					"AddProperty": ["GlowPower", { "type": "float32", "value": 20 }]
 				}
 			]
 		}
