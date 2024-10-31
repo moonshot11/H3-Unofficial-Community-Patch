@@ -8,10 +8,7 @@
 				{
 					"PatchArrayPropertyValue": [
 						"m_aWaypoints",
-						[
-							{ "RemoveItemByValue": "b6f30948f9abd3ed" },
-							{ "AddItem": "cf6610c4edadd60c" }
-						]
+						[{ "RemoveItemByValue": "b6f30948f9abd3ed" }, { "AddItem": "cf6610c4edadd60c" }]
 					]
 				}
 			]
@@ -44,10 +41,7 @@
 				{
 					"PatchArrayPropertyValue": [
 						"m_aWaypoints",
-						[
-							{ "RemoveItemByValue": "cf6610c4edadd60c" },
-							{ "AddItem": "b6f30948f9abd3ed" }
-						]
+						[{ "RemoveItemByValue": "cf6610c4edadd60c" }, { "AddItem": "b6f30948f9abd3ed" }]
 					]
 				}
 			]
