@@ -6,10 +6,7 @@
 			"SubEntityOperation": [
 				"d4ad3e24de1db324",
 				{
-					"AddProperty": [
-						"m_bValue",
-						{ "type": "bool", "value": true }
-					]
+					"AddProperty": ["m_bValue", { "type": "bool", "value": true }]
 				}
 			]
 		},
