@@ -20,10 +20,7 @@
 			"SubEntityOperation": [
 				"c990b21a4f1e9256",
 				{
-					"AddProperty": [
-						"Subtract_03_V2",
-						{ "type": "float32", "value": 0.0 }
-					]
+					"AddProperty": ["Subtract_03_V2", { "type": "float32", "value": 0.0 }]
 				}
 			]
 		},
