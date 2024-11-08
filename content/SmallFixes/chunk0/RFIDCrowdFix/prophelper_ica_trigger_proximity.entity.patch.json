@@ -28,10 +28,7 @@
 						},
 						"m_aValues": {
 							"type": "TArray<SEntityTemplateReference>",
-							"value": [
-								"2b2a7fd79d02dfe0",
-								"a5aa6d39f3889650"
-							],
+							"value": ["2b2a7fd79d02dfe0", "a5aa6d39f3889650"],
 							"postInit": true
 						}
 					}
