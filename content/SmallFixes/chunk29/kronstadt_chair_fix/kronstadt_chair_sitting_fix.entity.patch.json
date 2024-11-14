@@ -6,10 +6,7 @@
 			"SubEntityOperation": [
 				"bc7de6c25d6ff6b1",
 				{
-					"PatchArrayPropertyValue": [
-						"m_aValuesconditionsvisible",
-						[{ "RemoveItemByValue": "013c6c451444289a" }]
-					]
+					"PatchArrayPropertyValue": ["m_aValuesconditionsvisible", [{ "RemoveItemByValue": "013c6c451444289a" }]]
 				}
 			]
 		}
