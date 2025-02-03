@@ -6,10 +6,7 @@
 			"SubEntityOperation": [
 				"275fdbb21da194a8",
 				{
-					"AddProperty": [
-						"Secret_IsVisibleAtStart",
-						{ "type": "bool", "value": true }
-					]
+					"AddProperty": ["Secret_IsVisibleAtStart", { "type": "bool", "value": true }]
 				}
 			]
 		},
@@ -17,10 +14,7 @@
 			"SubEntityOperation": [
 				"92e55d13c0b8e2f7",
 				{
-					"AddProperty": [
-						"Secret_IsVisibleAtStart",
-						{ "type": "bool", "value": true }
-					]
+					"AddProperty": ["Secret_IsVisibleAtStart", { "type": "bool", "value": true }]
 				}
 			]
 		},
@@ -28,10 +22,7 @@
 			"SubEntityOperation": [
 				"86aeb59909fff8f2",
 				{
-					"AddProperty": [
-						"Secret_IsVisibleAtStart",
-						{ "type": "bool", "value": true }
-					]
+					"AddProperty": ["Secret_IsVisibleAtStart", { "type": "bool", "value": true }]
 				}
 			]
 		}
