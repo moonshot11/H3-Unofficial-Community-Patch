@@ -20,29 +20,18 @@
 			"SubEntityOperation": [
 				"1eb8ada1534036cb",
 				{
-					"AddEventConnection": [
-						"OnSkip",
-						"SetTrue",
-						"3b58915b9d6bee0f"
-					]
+					"AddEventConnection": ["OnSkip", "SetTrue", "3b58915b9d6bee0f"]
 				}
 			]
 		},
 		{
-			"SubEntityOperation": [
-				"9cb4d1085c8689ff",
-				{ "SetName": "SeqDir_Exit_helicopter_gecko_a" }
-			]
+			"SubEntityOperation": ["9cb4d1085c8689ff", { "SetName": "SeqDir_Exit_helicopter_gecko_a" }]
 		},
 		{
 			"SubEntityOperation": [
 				"dca6ebd9f45d7aae",
 				{
-					"RemoveEventConnection": [
-						"OnPlay",
-						"StartRotorFullSpeed",
-						"fdde26e8b2d8e4b4"
-					]
+					"RemoveEventConnection": ["OnPlay", "StartRotorFullSpeed", "fdde26e8b2d8e4b4"]
 				}
 			]
 		},
@@ -50,19 +39,12 @@
 			"SubEntityOperation": [
 				"dca6ebd9f45d7aae",
 				{
-					"AddEventConnection": [
-						"OnPlay",
-						"StartRotorFullSpeed",
-						"b18036ef09e60bbf"
-					]
+					"AddEventConnection": ["OnPlay", "StartRotorFullSpeed", "b18036ef09e60bbf"]
 				}
 			]
 		},
 		{
-			"SubEntityOperation": [
-				"34cd832f1078fa7f",
-				{ "SetName": "VB_SOUND_CutscenePlaying_Helicopter_Gecko" }
-			]
+			"SubEntityOperation": ["34cd832f1078fa7f", { "SetName": "VB_SOUND_CutscenePlaying_Helicopter_Gecko" }]
 		},
 		{
 			"SubEntityOperation": [
@@ -72,10 +54,7 @@
 						"m_aValues",
 						[
 							{
-								"AddItemAfter": [
-									"3b09a9d51e8350b6",
-									"34cd832f1078fa7f"
-								]
+								"AddItemAfter": ["3b09a9d51e8350b6", "34cd832f1078fa7f"]
 							}
 						]
 					]
