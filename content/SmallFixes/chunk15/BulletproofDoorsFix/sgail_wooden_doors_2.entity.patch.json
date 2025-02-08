@@ -6,10 +6,7 @@
 			"SubEntityOperation": [
 				"26869f63aae69a9e",
 				{
-					"PatchArrayPropertyValue": [
-						"m_aUIHighlightGeom",
-						[{ "AddItem": "62a55b4576adee7b" }]
-					]
+					"PatchArrayPropertyValue": ["m_aUIHighlightGeom", [{ "AddItem": "62a55b4576adee7b" }]]
 				}
 			]
 		}
